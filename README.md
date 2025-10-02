@@ -59,6 +59,7 @@ self_healing_classifier/
 │── screenshots/          # Screenshots (training, CLI run, analysis, graphs)
 │── requirements.txt      # Project dependencies
 │── README.md             # Documentation
+│── IMDB Dataset.csv      # IMDB Sentiment Dataset
 ```
 
 ---
