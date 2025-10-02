@@ -180,12 +180,18 @@ Each row contains:
 ## 📊 Generated Graphs
 
 ### Confidence Histogram  
+Shows the spread of confidence scores, helping identify how often predictions are strong vs. uncertain.
+
 ![Confidence Histogram](screenshots/confidence_histogram.png)
 
 ### Confidence Curve  
+Plots confidence values across multiple inputs, visualizing stability and fluctuations in predictions.
+
 ![Confidence Curve](screenshots/confidence_curve.png)
 
 ### Fallback Statistics  
+Summarizes how frequently fallback strategies were triggered compared to direct model decisions.
+
 ![Fallback Stats](screenshots/fallback_stats.png)
 
 ---
