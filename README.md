@@ -144,19 +144,6 @@ Final Label: Positive (Corrected via user clarification)
 
 ---
 
-## 📊 Generated Graphs
-
-### Confidence Histogram  
-![Confidence Histogram](screenshots/confidence_histogram.png)
-
-### Confidence Curve  
-![Confidence Curve](screenshots/confidence_curve.png)
-
-### Fallback Statistics  
-![Fallback Stats](screenshots/fallback_stats.png)
-
----
-
 ## 📝 Logging
 
 All events are stored in:  
@@ -182,6 +169,18 @@ Each row contains:
 2025-10-02 08:45:35,FallbackUser,"Mediocre at best, but had a few funny scenes.",positive,0.4068,User clarified
 2025-10-02 08:45:35,FinalDecision,"Mediocre at best, but had a few funny scenes.",positive,0.4068,end of pipeline
 ```
+---
+
+## 📊 Generated Graphs
+
+### Confidence Histogram  
+![Confidence Histogram](screenshots/confidence_histogram.png)
+
+### Confidence Curve  
+![Confidence Curve](screenshots/confidence_curve.png)
+
+### Fallback Statistics  
+![Fallback Stats](screenshots/fallback_stats.png)
 
 ---
 
