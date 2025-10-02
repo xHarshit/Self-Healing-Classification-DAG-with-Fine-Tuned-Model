@@ -83,8 +83,9 @@ Run training on a subset of IMDB dataset (5,000 samples, 1 epoch, batch size 16)
 ```bash
 python train_model.py --csv "IMDB Dataset.csv" --sample_size 5000 --epochs 1 --batch_size 16
 ```
-
-This will create the LoRA fine-tuned model in `./lora-finetuned-model`.
+- Here, --sample_size 5000 is used for testing/demo purposes only (to make training faster).
+- For full training, remove --sample_size argument and run on the complete dataset.
+- This will create the LoRA fine-tuned model in `./lora-finetuned-model`.
 
 ---
 
