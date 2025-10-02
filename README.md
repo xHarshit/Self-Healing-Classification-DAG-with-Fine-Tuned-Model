@@ -135,6 +135,7 @@ Final Label: Positive (Corrected via user clarification)
 
 ### 1. Training Process  
 This screenshot shows the fine-tuning of DistilBERT with LoRA on the IMDB dataset. It displays the training loss and evaluation accuracy logs, confirming that the model is learning sentiment distinctions.
+
 ![Training](screenshots/1.png)
 
 ### 2. Running CLI Inference  
