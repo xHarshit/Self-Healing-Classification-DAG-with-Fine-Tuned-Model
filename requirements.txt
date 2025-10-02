@@ -1,0 +1,9 @@
+torch
+transformers
+datasets
+peft
+langgraph
+langchain_core
+pandas
+matplotlib
+huggingface_hub

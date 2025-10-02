@@ -1,0 +1,151 @@
+Timestamp,Event,Text,Prediction,Confidence,Note
+2025-10-02 08:45:35,Inference,The dialogues were cringe-worthy.,positive,0.7572,
+2025-10-02 08:45:35,FinalDecision,The dialogues were cringe-worthy.,positive,0.7572,end of pipeline
+2025-10-02 08:45:35,Inference,"One of the worst films, complete waste of time.",negative,0.7827,
+2025-10-02 08:45:35,FinalDecision,"One of the worst films, complete waste of time.",negative,0.7827,end of pipeline
+2025-10-02 08:45:35,Inference,"A rollercoaster of emotions, highly recommended.",negative,0.9054,
+2025-10-02 08:45:35,FinalDecision,"A rollercoaster of emotions, highly recommended.",negative,0.9054,end of pipeline
+2025-10-02 08:45:35,Inference,"Mediocre at best, but had a few funny scenes.",negative,0.4068,
+2025-10-02 08:45:35,ConfidenceCheck,"Mediocre at best, but had a few funny scenes.",negative,0.4068,LOW
+2025-10-02 08:45:35,FallbackUser,"Mediocre at best, but had a few funny scenes.",positive,0.4068,User clarified
+2025-10-02 08:45:35,FinalDecision,"Mediocre at best, but had a few funny scenes.",positive,0.4068,end of pipeline
+2025-10-02 08:45:35,Inference,"An instant classic, will watch again!",positive,0.7176,
+2025-10-02 08:45:35,FinalDecision,"An instant classic, will watch again!",positive,0.7176,end of pipeline
+2025-10-02 08:45:35,Inference,"Terrible pacing, I almost fell asleep.",negative,0.4615,
+2025-10-02 08:45:35,ConfidenceCheck,"Terrible pacing, I almost fell asleep.",negative,0.4615,LOW
+2025-10-02 08:45:35,BackupModel,"Terrible pacing, I almost fell asleep.",negative,0.8803,backup accepted
+2025-10-02 08:45:35,FinalDecision,"Terrible pacing, I almost fell asleep.",negative,0.8803,end of pipeline
+2025-10-02 08:45:35,Inference,The script was weak but acting saved it.,negative,0.5911,
+2025-10-02 08:45:35,ConfidenceCheck,The script was weak but acting saved it.,negative,0.5911,LOW
+2025-10-02 08:45:35,BackupModel,The script was weak but acting saved it.,negative,0.8833,backup accepted
+2025-10-02 08:45:35,FinalDecision,The script was weak but acting saved it.,negative,0.8833,end of pipeline
+2025-10-02 08:45:35,Inference,The script was weak but acting saved it.,positive,0.9602,
+2025-10-02 08:45:35,FinalDecision,The script was weak but acting saved it.,positive,0.9602,end of pipeline
+2025-10-02 08:45:35,Inference,Predictable and dull storyline.,negative,0.6739,
+2025-10-02 08:45:35,FinalDecision,Predictable and dull storyline.,negative,0.6739,end of pipeline
+2025-10-02 08:45:35,Inference,"One of the worst films, complete waste of time.",positive,0.5322,
+2025-10-02 08:45:35,ConfidenceCheck,"One of the worst films, complete waste of time.",positive,0.5322,LOW
+2025-10-02 08:45:35,BackupModel,"One of the worst films, complete waste of time.",negative,0.8319,backup accepted
+2025-10-02 08:45:35,FinalDecision,"One of the worst films, complete waste of time.",negative,0.8319,end of pipeline
+2025-10-02 08:45:35,Inference,"One of the worst films, complete waste of time.",negative,0.7016,
+2025-10-02 08:45:35,FinalDecision,"One of the worst films, complete waste of time.",negative,0.7016,end of pipeline
+2025-10-02 08:45:35,Inference,Loved the soundtrack and visuals.,negative,0.7611,
+2025-10-02 08:45:35,FinalDecision,Loved the soundtrack and visuals.,negative,0.7611,end of pipeline
+2025-10-02 08:45:35,Inference,The dialogues were cringe-worthy.,negative,0.7874,
+2025-10-02 08:45:35,FinalDecision,The dialogues were cringe-worthy.,negative,0.7874,end of pipeline
+2025-10-02 08:45:35,Inference,Predictable and dull storyline.,negative,0.8837,
+2025-10-02 08:45:35,FinalDecision,Predictable and dull storyline.,negative,0.8837,end of pipeline
+2025-10-02 08:45:35,Inference,"One of the worst films, complete waste of time.",positive,0.7109,
+2025-10-02 08:45:35,FinalDecision,"One of the worst films, complete waste of time.",positive,0.7109,end of pipeline
+2025-10-02 08:45:35,Inference,"A rollercoaster of emotions, highly recommended.",positive,0.6815,
+2025-10-02 08:45:35,FinalDecision,"A rollercoaster of emotions, highly recommended.",positive,0.6815,end of pipeline
+2025-10-02 08:45:35,Inference,"An instant classic, will watch again!",negative,0.4182,
+2025-10-02 08:45:35,ConfidenceCheck,"An instant classic, will watch again!",negative,0.4182,LOW
+2025-10-02 08:45:35,BackupModel,"An instant classic, will watch again!",positive,0.7477,backup accepted
+2025-10-02 08:45:35,FinalDecision,"An instant classic, will watch again!",positive,0.7477,end of pipeline
+2025-10-02 08:45:35,Inference,"Mediocre at best, but had a few funny scenes.",negative,0.4222,
+2025-10-02 08:45:35,ConfidenceCheck,"Mediocre at best, but had a few funny scenes.",negative,0.4222,LOW
+2025-10-02 08:45:35,FallbackUser,"Mediocre at best, but had a few funny scenes.",positive,0.4222,User clarified
+2025-10-02 08:45:35,FinalDecision,"Mediocre at best, but had a few funny scenes.",positive,0.4222,end of pipeline
+2025-10-02 08:45:35,Inference,Loved the soundtrack and visuals.,positive,0.6998,
+2025-10-02 08:45:35,FinalDecision,Loved the soundtrack and visuals.,positive,0.6998,end of pipeline
+2025-10-02 08:45:35,Inference,Loved the soundtrack and visuals.,positive,0.9791,
+2025-10-02 08:45:35,FinalDecision,Loved the soundtrack and visuals.,positive,0.9791,end of pipeline
+2025-10-02 08:45:35,Inference,The script was weak but acting saved it.,positive,0.6167,
+2025-10-02 08:45:35,ConfidenceCheck,The script was weak but acting saved it.,positive,0.6167,LOW
+2025-10-02 08:45:35,FallbackUser,The script was weak but acting saved it.,negative,0.6167,User clarified
+2025-10-02 08:45:35,FinalDecision,The script was weak but acting saved it.,negative,0.6167,end of pipeline
+2025-10-02 08:45:35,Inference,"An instant classic, will watch again!",negative,0.4874,
+2025-10-02 08:45:35,ConfidenceCheck,"An instant classic, will watch again!",negative,0.4874,LOW
+2025-10-02 08:45:35,FallbackUser,"An instant classic, will watch again!",positive,0.4874,User clarified
+2025-10-02 08:45:35,FinalDecision,"An instant classic, will watch again!",positive,0.4874,end of pipeline
+2025-10-02 08:45:35,Inference,"One of the worst films, complete waste of time.",negative,0.4454,
+2025-10-02 08:45:35,ConfidenceCheck,"One of the worst films, complete waste of time.",negative,0.4454,LOW
+2025-10-02 08:45:35,BackupModel,"One of the worst films, complete waste of time.",negative,0.9036,backup accepted
+2025-10-02 08:45:35,FinalDecision,"One of the worst films, complete waste of time.",negative,0.9036,end of pipeline
+2025-10-02 08:45:35,Inference,Absolutely fantastic movie with brilliant acting.,positive,0.9501,
+2025-10-02 08:45:35,FinalDecision,Absolutely fantastic movie with brilliant acting.,positive,0.9501,end of pipeline
+2025-10-02 08:45:35,Inference,"One of the worst films, complete waste of time.",negative,0.7548,
+2025-10-02 08:45:35,FinalDecision,"One of the worst films, complete waste of time.",negative,0.7548,end of pipeline
+2025-10-02 08:45:35,Inference,"Terrible pacing, I almost fell asleep.",positive,0.6148,
+2025-10-02 08:45:35,ConfidenceCheck,"Terrible pacing, I almost fell asleep.",positive,0.6148,LOW
+2025-10-02 08:45:35,BackupModel,"Terrible pacing, I almost fell asleep.",positive,0.8537,backup accepted
+2025-10-02 08:45:35,FinalDecision,"Terrible pacing, I almost fell asleep.",positive,0.8537,end of pipeline
+2025-10-02 08:45:35,Inference,Absolutely fantastic movie with brilliant acting.,negative,0.6045,
+2025-10-02 08:45:35,ConfidenceCheck,Absolutely fantastic movie with brilliant acting.,negative,0.6045,LOW
+2025-10-02 08:45:35,BackupModel,Absolutely fantastic movie with brilliant acting.,positive,0.9566,backup accepted
+2025-10-02 08:45:35,FinalDecision,Absolutely fantastic movie with brilliant acting.,positive,0.9566,end of pipeline
+2025-10-02 08:45:35,Inference,"Terrible pacing, I almost fell asleep.",negative,0.4614,
+2025-10-02 08:45:35,ConfidenceCheck,"Terrible pacing, I almost fell asleep.",negative,0.4614,LOW
+2025-10-02 08:45:35,BackupModel,"Terrible pacing, I almost fell asleep.",positive,0.8738,backup accepted
+2025-10-02 08:45:35,FinalDecision,"Terrible pacing, I almost fell asleep.",positive,0.8738,end of pipeline
+2025-10-02 08:45:35,Inference,Predictable and dull storyline.,negative,0.7344,
+2025-10-02 08:45:35,FinalDecision,Predictable and dull storyline.,negative,0.7344,end of pipeline
+2025-10-02 08:45:35,Inference,"One of the worst films, complete waste of time.",negative,0.8077,
+2025-10-02 08:45:35,FinalDecision,"One of the worst films, complete waste of time.",negative,0.8077,end of pipeline
+2025-10-02 08:45:35,Inference,The script was weak but acting saved it.,negative,0.8401,
+2025-10-02 08:45:35,FinalDecision,The script was weak but acting saved it.,negative,0.8401,end of pipeline
+2025-10-02 08:45:35,Inference,Loved the soundtrack and visuals.,negative,0.8509,
+2025-10-02 08:45:35,FinalDecision,Loved the soundtrack and visuals.,negative,0.8509,end of pipeline
+2025-10-02 08:45:35,Inference,"Terrible pacing, I almost fell asleep.",negative,0.5566,
+2025-10-02 08:45:35,ConfidenceCheck,"Terrible pacing, I almost fell asleep.",negative,0.5566,LOW
+2025-10-02 08:45:35,BackupModel,"Terrible pacing, I almost fell asleep.",negative,0.9403,backup accepted
+2025-10-02 08:45:35,FinalDecision,"Terrible pacing, I almost fell asleep.",negative,0.9403,end of pipeline
+2025-10-02 08:45:35,Inference,Predictable and dull storyline.,negative,0.9053,
+2025-10-02 08:45:35,FinalDecision,Predictable and dull storyline.,negative,0.9053,end of pipeline
+2025-10-02 08:45:35,Inference,Loved the soundtrack and visuals.,positive,0.5773,
+2025-10-02 08:45:35,ConfidenceCheck,Loved the soundtrack and visuals.,positive,0.5773,LOW
+2025-10-02 08:45:35,FallbackUser,Loved the soundtrack and visuals.,negative,0.5773,User clarified
+2025-10-02 08:45:35,FinalDecision,Loved the soundtrack and visuals.,negative,0.5773,end of pipeline
+2025-10-02 08:45:35,Inference,"A rollercoaster of emotions, highly recommended.",negative,0.4122,
+2025-10-02 08:45:35,ConfidenceCheck,"A rollercoaster of emotions, highly recommended.",negative,0.4122,LOW
+2025-10-02 08:45:35,FallbackUser,"A rollercoaster of emotions, highly recommended.",positive,0.4122,User clarified
+2025-10-02 08:45:35,FinalDecision,"A rollercoaster of emotions, highly recommended.",positive,0.4122,end of pipeline
+2025-10-02 08:45:35,Inference,"A rollercoaster of emotions, highly recommended.",positive,0.8554,
+2025-10-02 08:45:35,FinalDecision,"A rollercoaster of emotions, highly recommended.",positive,0.8554,end of pipeline
+2025-10-02 08:45:35,Inference,The script was weak but acting saved it.,positive,0.7919,
+2025-10-02 08:45:35,FinalDecision,The script was weak but acting saved it.,positive,0.7919,end of pipeline
+2025-10-02 08:45:35,Inference,"An instant classic, will watch again!",positive,0.7921,
+2025-10-02 08:45:35,FinalDecision,"An instant classic, will watch again!",positive,0.7921,end of pipeline
+2025-10-02 08:45:35,Inference,"An instant classic, will watch again!",positive,0.4258,
+2025-10-02 08:45:35,ConfidenceCheck,"An instant classic, will watch again!",positive,0.4258,LOW
+2025-10-02 08:45:35,BackupModel,"An instant classic, will watch again!",negative,0.7381,backup accepted
+2025-10-02 08:45:35,FinalDecision,"An instant classic, will watch again!",negative,0.7381,end of pipeline
+2025-10-02 08:45:35,Inference,Predictable and dull storyline.,positive,0.7949,
+2025-10-02 08:45:35,FinalDecision,Predictable and dull storyline.,positive,0.7949,end of pipeline
+2025-10-02 08:45:35,Inference,"One of the worst films, complete waste of time.",positive,0.8831,
+2025-10-02 08:45:35,FinalDecision,"One of the worst films, complete waste of time.",positive,0.8831,end of pipeline
+2025-10-02 08:45:35,Inference,"Mediocre at best, but had a few funny scenes.",negative,0.9626,
+2025-10-02 08:45:35,FinalDecision,"Mediocre at best, but had a few funny scenes.",negative,0.9626,end of pipeline
+2025-10-02 08:45:35,Inference,Predictable and dull storyline.,negative,0.8139,
+2025-10-02 08:45:35,FinalDecision,Predictable and dull storyline.,negative,0.8139,end of pipeline
+2025-10-02 08:45:35,Inference,"Terrible pacing, I almost fell asleep.",negative,0.7928,
+2025-10-02 08:45:35,FinalDecision,"Terrible pacing, I almost fell asleep.",negative,0.7928,end of pipeline
+2025-10-02 08:45:35,Inference,The script was weak but acting saved it.,negative,0.7398,
+2025-10-02 08:45:35,FinalDecision,The script was weak but acting saved it.,negative,0.7398,end of pipeline
+2025-10-02 08:45:35,Inference,"Terrible pacing, I almost fell asleep.",negative,0.8986,
+2025-10-02 08:45:35,FinalDecision,"Terrible pacing, I almost fell asleep.",negative,0.8986,end of pipeline
+2025-10-02 08:45:35,Inference,"An instant classic, will watch again!",positive,0.671,
+2025-10-02 08:45:35,FinalDecision,"An instant classic, will watch again!",positive,0.671,end of pipeline
+2025-10-02 08:45:35,Inference,Absolutely fantastic movie with brilliant acting.,negative,0.9259,
+2025-10-02 08:45:35,FinalDecision,Absolutely fantastic movie with brilliant acting.,negative,0.9259,end of pipeline
+2025-10-02 08:45:35,Inference,The dialogues were cringe-worthy.,negative,0.7355,
+2025-10-02 08:45:35,FinalDecision,The dialogues were cringe-worthy.,negative,0.7355,end of pipeline
+2025-10-02 15:32:37,Inference,Movie was fantastic!,positive,0.7051,
+2025-10-02 15:32:43,Inference,Movie was okay,positive,0.6072,
+2025-10-02 15:32:43,ConfidenceCheck,Movie was okay,positive,0.6072,LOW
+2025-10-02 15:32:49,FallbackUser,Movie was okay,positive,0.6072,User input: Yes
+2025-10-02 15:32:49,FinalDecision,Movie was okay,positive,0.6072,user clarified
+2025-10-02 15:33:01,Inference,Movie was mid,negative,0.5324,
+2025-10-02 15:33:01,ConfidenceCheck,Movie was mid,negative,0.5324,LOW
+2025-10-02 15:33:08,FallbackUser,Movie was mid,negative,0.5324,"User input: Yes, it was bad"
+2025-10-02 15:33:08,FinalDecision,Movie was mid,negative,0.5324,user clarified
+2025-10-02 15:33:16,Inference,SUper,negative,0.5123,
+2025-10-02 15:33:16,ConfidenceCheck,SUper,negative,0.5123,LOW
+2025-10-02 15:33:18,FallbackUser,SUper,positive,0.5123,User input: no
+2025-10-02 15:33:18,FinalDecision,SUper,positive,0.5123,user clarified
+2025-10-02 16:45:03,Inference,"The movie was okay, not great but not terrible.",positive,0.5081,
+2025-10-02 16:45:03,ConfidenceCheck,"The movie was okay, not great but not terrible.",positive,0.5081,LOW
+2025-10-02 16:45:30,FallbackUser,"The movie was okay, not great but not terrible.",positive,0.5081,"User input: Yes, it is positive."
+2025-10-02 16:45:30,FinalDecision,"The movie was okay, not great but not terrible.",positive,0.5081,user clarified
+2025-10-02 16:45:43,Inference,"This movie was fantastic, I loved every second!",positive,0.9234,
