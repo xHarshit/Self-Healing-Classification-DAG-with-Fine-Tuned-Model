@@ -6,10 +6,10 @@ The system detects **low-confidence predictions** and automatically triggers a *
 ---
 
 ## 🎥 Demo Video
-[Demo video of the project](https://drive.google.com/file/d/15PGVQFVQWr4UuVHBPFPQhrBBqBTLVVPc/view?usp=sharing)  
+[Demo video of the project](https://drive.google.com/file/d/1M-XQthXA_9Xw6rIBGoryKeX5lLYZWL4C/view?usp=sharing)  
 
 ## 🤖 Dataset and Trained Model
-[Drive Link](https://drive.google.com/drive/folders/1Hz_uaayRzrfQ2N4H5VslGsLNstQixTsX?usp=drive_link)
+[Drive Link](https://drive.google.com/drive/folders/16I55T8kSBSpxwU3IrQUGiggRwULHe_zD?usp=sharing)
 
 ---
 
